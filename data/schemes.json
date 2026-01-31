@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN)",
+    "eligibility": "Small and marginal farmer families who own cultivable land as per land records of the respective State or Union Territory.",
+    "benefits": "Income support of ₹6,000 per year per family, payable in three equal instalments."
+  },
+  {
+    "name": "Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (PM-JAY)",
+    "eligibility": "Poor and vulnerable families identified based on the Socio-Economic Caste Census (SECC) database.",
+    "benefits": "Health insurance cover of up to ₹5 lakh per family per year for secondary and tertiary care hospitalisation."
+  },
+  {
+    "name": "Pradhan Mantri Fasal Bima Yojana (PMFBY)",
+    "eligibility": "All farmers including tenant farmers and sharecroppers growing notified crops in notified areas.",
+    "benefits": "Insurance coverage and financial support to farmers in the event of crop failure due to natural calamities, pests and diseases."
+  },
+  {
+    "name": "Pradhan Mantri Awaas Yojana – Gramin (PMAY-G)",
+    "eligibility": "Rural households identified as houseless or living in kutcha or dilapidated houses as per SECC data and Gram Sabha verification.",
+    "benefits": "Financial assistance for construction of a pucca house with basic amenities in rural areas."
+  },
+  {
+    "name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+    "eligibility": "Individuals aged 18 to 50 years having a bank or post office account and who consent to auto-debit.",
+    "benefits": "Life insurance cover of ₹2 lakh in case of death due to any reason."
+  },
+  {
+    "name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+    "eligibility": "Individuals aged 18 to 70 years having a bank or post office account and who consent to auto-debit.",
+    "benefits": "Accidental death and disability insurance cover of ₹2 lakh for death or permanent total disability and ₹1 lakh for partial disability."
+  },
+  {
+    "name": "Pradhan Mantri Awaas Yojana – Urban (PMAY-U)",
+    "eligibility": "Economically Weaker Section (EWS), Low Income Group (LIG) and Middle Income Group (MIG) households in urban areas who do not own a pucca house.",
+    "benefits": "Assistance for housing through credit-linked subsidy and support for construction or purchase of houses in urban areas."
+  },
+  {
+    "name": "National Urban Livelihoods Mission (NULM)",
+    "eligibility": "Urban poor including street vendors, homeless persons and members of self-help groups.",
+    "benefits": "Skill training, employment support and assistance for self-employment and entrepreneurship for the urban poor."
+  }
+]
